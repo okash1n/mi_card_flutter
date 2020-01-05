@@ -7,4 +7,4 @@
 
 ## Completed
 
-![](images/2020-01-05 20.34.55.png)
+![](images/mi_card.png)
